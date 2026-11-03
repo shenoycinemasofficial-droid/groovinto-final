@@ -1,0 +1,7 @@
+{
+  "name": "Groovinto — Cinematic Content Studio",
+  "description": "Bengaluru-based cinematic content AI studio making films with cameras, AI, Premiere Pro editing, and 100 comprehensive production guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

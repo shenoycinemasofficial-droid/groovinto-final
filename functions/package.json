@@ -1,0 +1,13 @@
+{
+  "name": "groovinto-functions",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-functions": "^6.4.0",
+    "razorpay": "^2.9.8"
+  }
+}
